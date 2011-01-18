@@ -1,0 +1,22 @@
+Source: pd-oscrxtx
+Section: sound
+Priority: optional
+Maintainer: Alexandre Quessy <alexandre@quessy.net>
+Build-Depends: debhelper (>= 7.0.50~),
+               puredata,
+               pkg-config,
+               liblo-dev,
+               quilt (>= 0.46-7~)
+Standards-Version: 3.9.1
+Homepage: http://www.github.com/aalex/oscrxtx
+
+Package: pd-oscrxtx
+Architecture: any
+Depends: ${shlibs:Depends},
+         pd,
+         ${misc:Depends}
+Recommends: pd-import
+Description: Pd objects for sending and receiving OSC messages
+ This a set of objects for Pure Data for sending and receiving Open Sound
+ Control messages. It uses liblo. It supports UDP and TCP, as well as 
+ multicast UDP.

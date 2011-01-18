@@ -1,0 +1,26 @@
+Format: http://svn.debian.org/wsvn/dep/web/deps/dep5.mdwn?rev=153
+Upstream-Name: oscrxtx
+Upstream-Contact: Mike Wozniewski <mike@mikewoz.com>
+Source: http://www.github.com/aalex/oscrxtx
+Copyright: 2010, Mike Wozniewski
+License: GPL-3+
+
+Files: *
+Copyright: 2010, Mike Wozniewski <mike@mikewoz.com>
+License: GPL-3+
+
+
+Files: debian/*
+Copyright: 2010, Alexandre Quessy <alexandre@quessy.net>
+License: GPL-3+
+
+License: GPL-3+
+ This program is free software: you can redistribute it and/or modify it
+ under the terms of the GNU General Public License as published by the
+ Free Software Foundation, either version 3 of the License, or (at your
+ option) any later version.
+ .
+ This program is distributed in the hope that it will be useful, but
+ WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ General Public License for more details.

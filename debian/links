@@ -1,0 +1,3 @@
+usr/lib/pd/extra/oscrxtx/README.txt        usr/share/doc/pd-oscrxtx/README
+usr/lib/pd/extra/oscrxtx/examples          usr/share/doc/pd-oscrxtx/examples
+usr/share/common-licenses/GPL-2             usr/lib/pd/extra/oscrxtx/LICENSE.txt
